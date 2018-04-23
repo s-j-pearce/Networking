@@ -6,7 +6,6 @@
 The purpose of a peer-based or p2p network is to allow users to connect with each other directly. The main benefit of a peer based network is that there is no single provider being responsible for a server. Each computer stores files and acts as a server. Each computer has its own equal responsibility for providing data. In the peer-to-peer model, many users on the network could store a file. Each computer can then send sections of the file, sharing the workload. Each client can download and share files with other users. A p2p would not be an ideal network if a company was looking to provide a service like selling tickets as one main server would need to keep track of how many tickets are left. Also on P2P networks, no single computer is responsible for storing a file - anyone can delete files as they wish meaning that it is certainly not ideal for commercial use.
 
 ### Client-server
-5
 #### purpose
 #### benefits
 #### resource implications
@@ -86,3 +85,27 @@ The purpose of a peer-based or p2p network is to allow users to connect with eac
 ### POP3
 
 ### SSL
+
+---
+
+## The impact of networking topology, communication and bandwidth:
+
+### Topologies:
+#### Logical:
+##### Ethernet:
+##### Token Ring:
+
+#### Physical:
+##### Star:
+##### Ring:
+##### Bus:
+##### Mesh:
+##### Tree:
+
+### Communication:
+#### suitability of devices
+#### suited to users
+#### supportive of lifestyle desires 
+#### supportive of commercial requirements
+#### security requirements 
+#### quality of service needs and the effect that bandwidth has
