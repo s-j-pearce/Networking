@@ -109,3 +109,30 @@ The purpose of a peer-based or p2p network is to allow users to connect with eac
 #### supportive of commercial requirements
 #### security requirements 
 #### quality of service needs and the effect that bandwidth has
+
+---
+
+## Operating Principles:
+### Networking devices:
+#### hubs
+#### routers
+#### switches
+#### multilayer switch
+#### firewall
+#### HIDS
+#### repeaters
+#### bridges
+#### wireless devices
+#### access point (wireless/wired)
+#### content filter
+#### Load balancer
+#### Modem 
+#### Packet shaper 
+#### VPN concentrator
+
+### Server types:
+#### Web
+#### file
+#### database
+#### combination (e.g MS Small Business Servers)
+#### virtualisation and terminal services server
