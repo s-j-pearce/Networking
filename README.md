@@ -103,28 +103,28 @@ The purpose of a peer-based or p2p network is to allow users to connect with eac
 ##### Tree:
 
 ### Communication:
-#### suitability of devices
-#### suited to users
-#### supportive of lifestyle desires 
-#### supportive of commercial requirements
-#### security requirements 
-#### quality of service needs and the effect that bandwidth has
+#### Suitability of devices
+#### Suited to users
+#### Supportive of lifestyle desires 
+#### Supportive of commercial requirements
+#### Security requirements 
+#### Quality of service needs and the effect that bandwidth has
 
 ---
 
-## Operating Principles:
+## Glossary of Operating Principles:
 ### Networking devices:
-#### hubs
-#### routers
-#### switches
-#### multilayer switch
-#### firewall
+#### Hubs
+#### Routers
+#### Switches
+#### Multilayer switch
+#### Firewall
 #### HIDS
-#### repeaters
-#### bridges
-#### wireless devices
-#### access point (wireless/wired)
-#### content filter
+#### Repeaters
+#### Bridges
+#### Wireless devices
+#### Access point (wireless/wired)
+#### Content filter
 #### Load balancer
 #### Modem 
 #### Packet shaper 
@@ -132,7 +132,7 @@ The purpose of a peer-based or p2p network is to allow users to connect with eac
 
 ### Server types:
 #### Web
-#### file
-#### database
-#### combination (e.g MS Small Business Servers)
-#### virtualisation and terminal services server
+#### File
+#### Database
+#### Combination (e.g MS Small Business Servers)
+#### Virtualisation and terminal services server
