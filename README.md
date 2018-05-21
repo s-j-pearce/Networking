@@ -31,9 +31,13 @@ Information sharing is a fairly simple process through this method as this metho
 ### Cloud
 
 #### purpose
+The main purpose for a cloud network method is for business, companies or anyone really if they want to have an external server which can be maintained by an external source. This means that this method is usually over the internet and on a pay-as-you-go basis. This method allows users to access the same applications and resources that an internal server would have but this way they can access it all over the internet whether it is internally or externally.
 #### benefits
+Some benefits for cloud computing are; flexibility, cloud-based services allow businesses to easily scale up their capacity if needed. There is also the ability to scale down also. Another benefit is disaster recovery; this method allows smaller businesses to have an affordable alternative in case of a disaster. Another major benefit is the increased collaboration. Teams of people are able to access, edit and share files anytime and anywhere allowing for a greater workflow.
 #### resource implications
+Cloud computing is possibly one of the best methods to help with resource implications. As mentioned above, one of the main benefits of this method is the ability to access, edit and share files anywhere anytime. This means that as long as a user has an internet connection and the correct credentials then they can access data fast and easily. This method’s only constraint in this area would be internet connection, the user may or may not be in an area with ideal internet access, meaning it may take longer for users to gain access to larger files.
 #### communications
+This method allows users to access, edit and share files and data anywhere anytime so therefore if the company has implemented an application which can allow users to communicate then users and clients would be able to communicate as long as they have internet access. Communication would not only be between two users, it will also be between the client and the cloud server. The client would send a request to the server and it would respond, whether it is to gain access to a file or to connect with another client through that server. 
 #### working practice
 #### commercial opportunity
 #### information sharing
