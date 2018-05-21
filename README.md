@@ -20,7 +20,7 @@ Due to the design of this method, it does have some drawbacks. Each computer has
 The purpose of a client server is to serve the end users. These end users are called clients. The clients would use this server method in order to gain access to resources like files, songs, videos or many other services that can be stored on a system known as a server. 
 #### benefits
 The main benefits of a client-server network are; All the files are stored in a central location which can be accessed by all pc’s on that network. All of the network peripherals are controlled centrally. This method means that back-ups and security for the network is all controlled from a central location. Users are able to access shared files and data from a central location(the server).
-#### resource implications
+#### resource implications (cost)
 Resource implication is fairly simple as files and data are stored in a central location on a server. All the pc’s on that network are able to access them as long as the users on those pc’s have been given permissions too. Data and files being stored from the central location means that it is quicker for users to access them and use them. The only real constraint of this method could be internet connection, e.g. if someone has low internet speeds, they may have to wait longer for a file that someone who has fast internet speeds. 
 #### communications
 Pc’s on this network method will send requests to the central server and it will respond by fulfilling a request. For example, an end user or client may ask to open a public document or file which is stored on the server, the server will then respond by checking the end users credentials to make sure they have the right ones to access that file. Once that process is finished it will then open up the file for the user on that system. As clients connect with the server through the internet, the client’s internet speeds will determine how quickly the file or resource is downloaded to their system/pc.
@@ -38,7 +38,7 @@ Information sharing is a fairly simple process through this method as this metho
 The main purpose for a cloud network method is for business, companies or anyone really if they want to have an external server which can be maintained by an external source. This means that this method is usually over the internet and on a pay-as-you-go basis. This method allows users to access the same applications and resources that an internal server would have but this way they can access it all over the internet whether it is internally or externally.
 #### benefits
 Some benefits for cloud computing are; flexibility, cloud-based services allow businesses to easily scale up their capacity if needed. There is also the ability to scale down also. Another benefit is disaster recovery; this method allows smaller businesses to have an affordable alternative in case of a disaster. Another major benefit is the increased collaboration. Teams of people are able to access, edit and share files anytime and anywhere allowing for a greater workflow.
-#### resource implications
+#### resource implications (cost)
 Cloud computing is possibly one of the best methods to help with resource implications. As mentioned above, one of the main benefits of this method is the ability to access, edit and share files anywhere anytime. This means that as long as a user has an internet connection and the correct credentials then they can access data fast and easily. This method’s only constraint in this area would be internet connection, the user may or may not be in an area with ideal internet access, meaning it may take longer for users to gain access to larger files.
 #### communications
 This method allows users to access, edit and share files and data anywhere anytime so therefore if the company has implemented an application which can allow users to communicate then users and clients would be able to communicate as long as they have internet access. Communication would not only be between two users, it will also be between the client and the cloud server. The client would send a request to the server and it would respond, whether it is to gain access to a file or to connect with another client through that server. 
@@ -55,7 +55,7 @@ Collaboration through cloud computing gives a business the ability to communicat
 The purpose of a computer cluster is for multiple computers to be viewed as a single system connect through fast local area networks. A computer cluster is a set off loosely or tightly connected computers that work together to be seen as a single computer. Clusters are usually used to help improve performance and availability over that of a single computer.
 #### benefits
 Clusters are primarily designed with performance in mind however some other factors also play a part too. The main benefits of clusters are; Fault tolerance – The ability to continue working when a node has malfunctioned. Scalability, clusters can easily be upscaled or even downscaled if required when it meets the users needs. 
-#### resource implications
+#### resource implications (cost)
 Cluster servers can be set up and designed in many ways. Some ways which help with resource management could be a business using a cluster to help balance web-services. This would be done by allocating specific queries to individual nodes so that the overall response time would be optimized. Another alternate way in which a cluster could be designed is to design a high-performance cluster where the main use is for scientific calculations, some people may also refer to this method as “supercomputing”.
 #### working practice
 The working practice for a computer cluster depends on the needs of the user or business. For example, a company may want to set up a cluster in order to help load balance their site. The company may also be a research company or even vehicle crash investigation company, this would mean that they may set up the cluster to help with computational simulations in which the computer would generate high level simulations and calculations for the business at a faster rate than if they just used a single system.
@@ -65,13 +65,13 @@ With computer clusters there are many commercial opportunities for businesses. F
 ### Centralised
 
 #### purpose
+Centralised computing’s purpose is to allow the basic client pc’s connected to the main central server basic functions. The main computation and processes are dealt with within that central server.  The central server is deployed with primary application, huge computing resources, storage and other high-end computing intensive features. The client pc’s connect to the server will then have a visual display, basic input devices and a thin CPU with network capabilities. All of the client pc’s are dependant on the central server for any application access, computing, storage, internet access and security. This also means that the administrator in the centralised computing infrastructure manages all of the client nodes from the central server interface.
 #### benefits
+The benefits of a centralised network are; Reduction of cost, as the network will solely rely on the central server to do all of the work, it means that you can save when increasing the number of client pc’s as they do not need to be high-spec. Higher data security as all requests and transmissions go through the central server. Processing will be consistent over all pc’s and therefore there wont be one pc that is better than another.
 #### resource implications
+The cost of a centralised network all depends on a few things. 1. How many client pc’s does the business require. 2. What sort of computational processes are the business planning on doing with the server and 3. How many client pc’s do you expect to be utilising the central server at one time.
 #### communications
-#### working practice
-#### commercial opportunity
-#### information sharing
-#### collaboration
+Communication through a centralised server is very straight forward. All requests and data is sent directly to the central server where it will then distribute the data to the other pc’s. As nothing is connected to the internet, no data will leave the network through the pc’s unless they are taken off the network and uploaded.
 
 ### Virtualised
 
