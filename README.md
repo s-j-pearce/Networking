@@ -39,20 +39,24 @@ Cloud computing is possibly one of the best methods to help with resource implic
 #### communications
 This method allows users to access, edit and share files and data anywhere anytime so therefore if the company has implemented an application which can allow users to communicate then users and clients would be able to communicate as long as they have internet access. Communication would not only be between two users, it will also be between the client and the cloud server. The client would send a request to the server and it would respond, whether it is to gain access to a file or to connect with another client through that server. 
 #### working practice
-#### commercial opportunity
+By companies using cloud computing it allow employees to be more flexible with their working practices. For example, you have the ability to access data and files from anywhere, anytime. The only real constraint to this method is the need for an internet connection. If you need to access your files or data whilst out of the office, you can very quickly open a virtual office and start working.
 #### information sharing
+Using cloud computing, it allows users to be able to access, edit and share data and files quickly and easily. This means that users are able to share information a lot easier and a lot more efficiently than before. A user can simply upload a file or use a communication application to connect with another user or client. This method helps many people connect as well as provide opportunity for multi user functionality for projects and other means.
 #### collaboration
+Collaboration through cloud computing gives a business the ability to communicate and share more easily outside of traditional methods. If you are working on a project across different locations, you could use cloud computing to give employees, contractors and third parties access to the same files and data.
 
 ### Cluster
 
 #### purpose
+The purpose of a computer cluster is for multiple computers to be viewed as a single system connect through fast local area networks. A computer cluster is a set off loosely or tightly connected computers that work together to be seen as a single computer. Clusters are usually used to help improve performance and availability over that of a single computer.
 #### benefits
+Clusters are primarily designed with performance in mind however some other factors also play a part too. The main benefits of clusters are; Fault tolerance – The ability to continue working when a node has malfunctioned. Scalability, clusters can easily be upscaled or even downscaled if required when it meets the users needs. 
 #### resource implications
-#### communications
+Cluster servers can be set up and designed in many ways. Some ways which help with resource management could be a business using a cluster to help balance web-services. This would be done by allocating specific queries to individual nodes so that the overall response time would be optimized. Another alternate way in which a cluster could be designed is to design a high-performance cluster where the main use is for scientific calculations, some people may also refer to this method as “supercomputing”.
 #### working practice
+The working practice for a computer cluster depends on the needs of the user or business. For example, a company may want to set up a cluster in order to help load balance their site. The company may also be a research company or even vehicle crash investigation company, this would mean that they may set up the cluster to help with computational simulations in which the computer would generate high level simulations and calculations for the business at a faster rate than if they just used a single system.
 #### commercial opportunity
-#### information sharing
-#### collaboration
+With computer clusters there are many commercial opportunities for businesses. For example, a company may be all about investigating road accidents. This would mean that they could use their cluster to simulate these accidents to help investigators or even help with cases. An alternate to this could be for web balancing. A company may want to sell the use of their cluster to help host a website, the cluster would then help balance the queries on the site as well as manage specific queries to specific nodes if required.
 
 ### Centralised
 
