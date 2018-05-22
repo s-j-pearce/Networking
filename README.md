@@ -92,9 +92,14 @@ A virtualised network can be implemented into a work place for many different re
 Network virtualisation has a lot of positive features that will bring businesses to want to use them. A main reason is the use of virtual hardware and software as appose to physical hardware. This means that the business will have to invest less as they won’t need to purchase the physical hardware, however they will need to pay for the services to get the virtualisation set up as well as regular maintenance and updates.
 
 ## Conceptual models:
+![osi vs tcp](https://user-images.githubusercontent.com/31927590/40356588-69ec4976-5db1-11e8-9a71-74711b51c8f6.png)
 ### OSI Model
 
+
+
 ### TCP/IP Model
+
+
 
 ## Working standards and protocols:
 ### IEEE 802.3, .7, .8, .11
