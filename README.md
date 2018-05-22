@@ -81,13 +81,15 @@ A centralised network would be used within a business to manage files and data f
 ### Virtualised
 
 #### purpose
+The purpose of a virtualised network is to combine the available network resources by splitting up the bandwidth into channels. Each individual channel is independent from the others and can be assigned to a server or a device in real time. This process means that all users will have access to the resources from the network from one computer. Virtualised networks are virtual. This means that nothing is actual physical.
 #### benefits
+The benefits of a virtualised network are; It is cheaper as it does not actually require any physical hardware to be installed or used. You can now just purchase the license or the access from a third-party provider and start working as if the hardware was installed locally. Energy saving is also a major benefit of a virtualised network as it allows for companies to save energy but not actually needing the local hardware.
 #### resource implications
-#### communications
+The cost to set up a virtualised server is a lot less than other alternatives as with a virtualised server you would not be running physical hardware. You can also save money by allocating the space where you would set up a normal client server and use that space for something else. Also it means that updates and software can automatically be installed by the provider, this means it saves time for IT professionals so that they can focus on other tasks.
 #### working practice
+A virtualised network can be implemented into a work place for many different reasons. You could implement the virtualisation in order to test new networking hardware or software. There is also the ability to use it for training so that they are not actually handling physical hardware and if they make a mistake it can be easily resolved.
 #### commercial opportunity
-#### information sharing
-#### collaboration
+Network virtualisation has a lot of positive features that will bring businesses to want to use them. A main reason is the use of virtual hardware and software as appose to physical hardware. This means that the business will have to invest less as they won’t need to purchase the physical hardware, however they will need to pay for the services to get the virtualisation set up as well as regular maintenance and updates.
 
 ## Conceptual models:
 ### OSI Model
