@@ -221,3 +221,9 @@ A combination server is a server that will merge all of the previous three serve
 A virtualized server is a server that can have the functionality of a physical server however it is nothing more than a small machine loaded with specialised software. This software helps the virtual server to perform the tasks needed by a server.
 #### terminal services server
 A terminal services server is a device that provides other computers connected to this device with a path to another LAN or WAN. The computers themselves don’t need to be connected to a router or a switch to make the connection.
+
+---
+
+## Network design:
+
+![network design 1](https://user-images.githubusercontent.com/31927590/40590183-814781fe-61f2-11e8-8fa3-4d5629f2a2db.png)
