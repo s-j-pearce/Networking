@@ -224,6 +224,7 @@ A terminal services server is a device that provides other computers connected t
 
 ---
 
+## Network design
 ### Testing and evaluation of design:
 We were given the task of creating two LANs, both with a star topology. Both networks would connect via a router on either side. Each network had 3 pc’s, one server, one router, one switch, one printer and one access point. Once each of the networks had been created needed to connect them so that we can send packets of data between the two networks. The design below shows just how we met the requirements for the project as well as how the final product is going to roughly be laid out:
 
@@ -249,3 +250,26 @@ The requirements are very simple to break down;
 
 #### Evaluation of design:
 Overall, I feel as though the initial design is very good. I feel as though it has covered all of the requirements of the user very well and is laid out in a professional manner. In theory if each piece of hardware on each network is set up correctly, it will work perfectly. The design allows for DHCP settings to be added in the server as well as a DNS setting in the server also. This will help new devices to be automatically allocated all the required information to run on the network. The design has met all of the requirements set by the user and will work if there is no human error so therefore I can conclude that it is a successful design.
+
+### Configuration of network
+Both networks had specific requirements that needed to be included. These were the IP addresses allocated to each pc, the server and the router of both networks. Below you can see the IP addresses given:
+#### Network 1
+PC1 – 192.168.1.100
+PC2 – 192.168.1.101
+PC3 – 192.168.1.102
+Server – 192.168.1.10
+Router – 192.168.1.1
+#### Network 2
+PC1 – 192.168.10.100
+PC2 – 192.168.10.101
+PC3 – 192.168.10.102
+Server – 192.168.10.10
+Router – 192.168.10.1
+### Creating the network
+The image below is of the finished network which has been completed to the specifications of the user. As you can also see, it follows a close design to my earlier concept design. Whilst creating this network I basically followed my initial plan that I has come up with during the design stage. I stuck to my design and added in all of the devices that were on the design. In addition to following the design I also made both networks more unique by giving them a different naming theme. For Network 1 I used a Simpsons theme where I named all of the PCs after characters and called the overall network Springfield. For Network 2 I used the theme of Family Guy. I also names the PCs after characters and the overall network Quahog.
+
+![network](https://user-images.githubusercontent.com/31927590/40590754-45875252-61fc-11e8-9eb9-6882cd0870b5.PNG)
+
+### Testing
+In order to make sure that my designed networks work correctly as intended I have created a test plan to go through some of the important features. The test plan also tested each of the user requirements given to me. The test plan itself shows the action, the expected result as well as the actual result. There is also another section where if there is any problems or actions required, I can make a not to say what needs to be done to fix it. Obviously, I wanted each tests outcome to be its expected outcome so that it proves that the design and implementation was a success.
+#### Test Plan:
