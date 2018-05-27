@@ -94,15 +94,27 @@ Network virtualisation has a lot of positive features that will bring businesses
 ## Conceptual models:
 ![osi vs tcp](https://user-images.githubusercontent.com/31927590/40356588-69ec4976-5db1-11e8-9a71-74711b51c8f6.png)
 ### OSI Model
-
-
-
+1.	Application – This layer is very similar to the TCP/IP model layer with the same name. This layer is where different protocols are assigned to the different types of data.
+2.	Presentation – This layer is where the data is compressed or encrypted. This layer also helps to make the data easier to interpret as well as easier to determine the type of data that it is.
+3.	Session – This layer is responsible for obtaining connections between different applications. Either TCP or UDP is used depending on the requirements. This is similar to the transport layer of the TCP/IP model.
+4.	 Transport – This layer is responsible for the transmission of the data. This layer also checks for errors in the data whilst its being received and sent.
+5.	Network – This layer also helps with the transmission of data however its main purpose is to get the destination address. This information is then applied to the data, so it can be sent correctly.
+6.	Data Link – This layer is responsible for the encryption of the data before it is sent to the recipient. This layer also decrypts data back into readable packets for the other layers to process.
+7.	Physical – This last layer is the one that is responsible for the physical links that help to transmit the data. The information can be transmitted by electrical pulse or even light pulses.
 ### TCP/IP Model
-
-
-
+1.	Application – This layer is responsible for the assignment of which protocol is used by each application or data.
+2.	Transport – The transport layer is responsible for creating and maintaining the communication between the sender and the receiver. There are only two protocols which are used in this layer. TCP which checks to make sure that the receiver has received the data and UDP which does not check to see if the receiver has received the data.
+3.	Internet – This layer is responsible for organising the data into packets. The packets will then be sent to the organised recipient using their IP address.
+4.	Network access – This layer is responsible for interfacing with your networks architecture. This layer also checks for any errors with the data that has been sent or received.
 ## Working standards and protocols:
-### IEEE 802.3, .7, .8, .11
+### IEEE 802.3
+IEEE 802.3 is known as the standard for ethernet. The standard specifies the physical media and the working characteristics of the ethernet. The standard also specifies the media that supports the standard, which are coaxial of both 185 and 500 meters, optic fibre, twisted pair telephone and multi-channel coaxial with a maximum length of 3,600 meters. As only ethernet signals are carried on medium, the ethernet is designated ‘BASE’, meaning baseband signalling and designated 10base as the standard refers to the transmission speed of 10Mbps.
+### IEEE 802.7
+IEEE 802.7 Identifies the recommended broadband LAN practices. The design, instillation and the test parameters for broadband cable technologies within the network are specified within this standard. 
+### IEEE 802.8
+IEEE 802.8 is used as the standard in token passing computer networks for fibre optic in a LAN. This standard was created by the fibre optic technical advisory group. It gives recommendation for the configuration and testing of fibre optic LAN and metropolitan area networks.
+### IEEE 802.11
+IEEE 802.11 is a set of standards which are set out for defining communication in a wireless LAN. These standards are primarily a set of guidelines for implementing Wi-Fi. The standard itself is made up of many amendments, some of which are .11a, .11b, .11g as well as .11n which states the different frequency bands used. 
 
 ### IPv4, IPv6
 #### Global unicast
