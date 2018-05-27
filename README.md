@@ -150,26 +150,29 @@ SSL stands for secure sockets layer. This protocol is responsible for security o
 ---
 
 ## The impact of networking topology, communication and bandwidth:
-
 ### Topologies:
 #### Logical:
+A logical topology is a set of fragments that define the specific arrangement and communication of nodes on a network. The topology of a network can easily be maintained and reconfigured by the topology. The topology itself will handle how signals and how the data passes through the network as well as how it is handled on the devices within the network.
 ##### Ethernet:
+Ethernet is a type of logical topology. Ethernet is the most common LAN technology. Ethernet formats exactly how data is going to be transmitted to other network devices on the same network.
 ##### Token Ring:
-
+A token ring is a LAN in which computers are connected in a ring or star topology and pass one or more logical tokens from host to host. Only the host who holds the token can send data. One the data has been received and confirmed then the token is released to the next host.
 #### Physical:
+A physical topology is the physical hardware of a network. This can consist of the clients and the cables on the network connecting them. This allows organisations to physically layout the network. By doing this you can determine the cable to be used and how it will be run through the building.
+Some types of physical topologies are:
 ##### Star:
+The star topology is when all devices and clients are connected to one central node. This node would mainly be a type of hub or switch.
 ##### Ring:
+The ring topology is when all the clients and devices are connected to one another in a circular layout. Each device is joined to two others and the data packets would travel around these nodes until it reaches its destination.
 ##### Bus:
+A bus topology is when all of the clients and devices are connected on a single line which is terminated on both ends. 
 ##### Mesh:
+A mesh topology is where there are multiple connections between different machines on the network which allows for different routes to be used if one is unusable.
 ##### Tree:
-
+A tree topology is a combination of a star network topology and a bus topology. In a tree topology, nodes of the underlying bus network topology are replaced with a complete star topology.
 ### Communication:
-#### Suitability of devices
-#### Suited to users
-#### Supportive of lifestyle desires 
-#### Supportive of commercial requirements
-#### Security requirements 
-#### Quality of service needs and the effect that bandwidth has
+Communication in networking is where two or more machines send and receive data to one another. Usually the most common form of communication is from a pc requesting data from a server. Requesting data from a server can range from a number of simple tasks. For instance a user may be trying to access their emails or requesting data from a web server. Whilst being connected to the internet, data is being sent and received from your device to the server all the time. 
+In a network itself it is the router that will direct the web traffic as well as the data to the correct destinations. Due to the fact that data is being constantly sent and received, very is always going to be a risk of an attack taking place. An attack can take place whilst the data is in the process of being sent to your machine or it can even be sent within the data itself. Because of this, there are security measures in place like firewalls which are used on most machines connected to the internet. These firewalls keep us safe by blocking specific types of data from passing through its filter. Because of this extra level of security, the time it takes for the data to be received can take longer as it needs to be screened before is can continue its journey. If the data passes the screening then it will be allowed through however if not, it is sent back to the sender. There are occasions where data is falsely identified to be harmful which results in the data not being sent however this is a really rare occurrence.
 
 ---
 
