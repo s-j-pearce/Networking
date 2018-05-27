@@ -224,6 +224,10 @@ A terminal services server is a device that provides other computers connected t
 
 ---
 
+## Workstation hardware and software
+
+---
+
 ## Network design
 ### Testing and evaluation of design:
 We were given the task of creating two LANs, both with a star topology. Both networks would connect via a router on either side. Each network had 3 pc’s, one server, one router, one switch, one printer and one access point. Once each of the networks had been created needed to connect them so that we can send packets of data between the two networks. The design below shows just how we met the requirements for the project as well as how the final product is going to roughly be laid out:
