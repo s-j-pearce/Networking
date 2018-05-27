@@ -116,13 +116,24 @@ IEEE 802.8 is used as the standard in token passing computer networks for fibre 
 ### IEEE 802.11
 IEEE 802.11 is a set of standards which are set out for defining communication in a wireless LAN. These standards are primarily a set of guidelines for implementing Wi-Fi. The standard itself is made up of many amendments, some of which are .11a, .11b, .11g as well as .11n which states the different frequency bands used. 
 
-### IPv4, IPv6
+### Routed protocols
+A routed protocol is how routers communicate with one another. The routers will exchange information that will enable them to select specific routes on that network. These routes will help provide the best router for that information. This method only works when both routers know the network that they are trying to send the information through. The most popular type of routing protocol is IP addresses. Routed protocols are the reason that IP addresses are more popular than other less conventional routing protocols.
+#### IPv4
+IPv4 stands for Internet protocol version 4. This protocol was one of the core protocols that standard-based interworking methods on the internet. IPv4 was originally thought to have enough addresses however due to the increase in population and active users it was starting to run out of addresses to assign. A solution to this problem was IPv6. IPv4 only had 4 billion possible addresses.
+#### IPv6
+IPv6 stands for Internet protocol version 6. This protocol was introduced in order to fulfil the address requirements. This was the sixth version to be created. This protocol is in place due to the number of addresses that needed to be assigned. The principle of IPv6 is the same as IPv4 however the number of possible addresses were drastically increased from 4 billion to over 340 undecillion (2^128). 
 #### Global unicast
+Global unicast is a feature in IPv6 which allows for a convenient, publicly routable to be used on the internet or any public domain that uses a single node. The main problem with global unicast is that when the data packets are sent they are not actually sent to one target destination. They are actually sent across the network to all hosts which for obvious reasons can cause major security risks.
 #### Multicast 
+Multicast addresses are logical identifiers for a group of hosts in a computer network that are available to process frames intended to be multicast for a designated network service.
 #### Link local 
+A link-local address is an IPv6 unicast address that can be automatically configured on any interface using the link-local prefix and the interface identifier in the modified EUI-64 format.
 #### Unique local 
+A Unique Local Address (ULA) is an address that is used in IPv6 as an identifier, the problem with a ULA is that data is not supposed to be routed outside of the specified range and the address is not allocated by an address registry.
 #### EUI 64 
+The Extended unique identifier (EUI) is a format which allows a host to automatically assign itself a unique 64-bit IPv6 interface identifier without the need for manual configuration or DHCP. This is a benefit of IPv6's over IPv4 is the capability for automatic interface addressing.
 #### Auto configuration
+Auto-configuration is another important feature offered by the IPv6 protocol. Auto configuration allowed the automatic configuration of devices without manual intervention, in the form of a Dynamic Host Configuration Protocol (DHCP) server which holds pre-set IP's in a pool and changes each time.
 
 ## Services and network applications:
 ### FTP
