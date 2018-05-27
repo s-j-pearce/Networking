@@ -172,6 +172,7 @@ A mesh topology is where there are multiple connections between different machin
 A tree topology is a combination of a star network topology and a bus topology. In a tree topology, nodes of the underlying bus network topology are replaced with a complete star topology.
 ### Communication:
 Communication in networking is where two or more machines send and receive data to one another. Usually the most common form of communication is from a pc requesting data from a server. Requesting data from a server can range from a number of simple tasks. For instance a user may be trying to access their emails or requesting data from a web server. Whilst being connected to the internet, data is being sent and received from your device to the server all the time. 
+
 In a network itself it is the router that will direct the web traffic as well as the data to the correct destinations. Due to the fact that data is being constantly sent and received, very is always going to be a risk of an attack taking place. An attack can take place whilst the data is in the process of being sent to your machine or it can even be sent within the data itself. Because of this, there are security measures in place like firewalls which are used on most machines connected to the internet. These firewalls keep us safe by blocking specific types of data from passing through its filter. Because of this extra level of security, the time it takes for the data to be received can take longer as it needs to be screened before is can continue its journey. If the data passes the screening then it will be allowed through however if not, it is sent back to the sender. There are occasions where data is falsely identified to be harmful which results in the data not being sent however this is a really rare occurrence.
 
 ---
@@ -179,24 +180,44 @@ In a network itself it is the router that will direct the web traffic as well as
 ## Glossary of Operating Principles:
 ### Networking devices:
 #### Hubs
+Hubs server as a connection point for a network. Hubs manage and route traffic over the local connections. Data is sent one piece at a time, so all users don’t get a copy, this slows the system down.
 #### Routers
+Routers are devices that connect multiple local networks. Data is sent through packets to the router with an address attached. The router will then send the data packet to the address which is attached. The router then works out the best route and sends it. 
 #### Switches
+A switch is similar to a hub. A switch takes and routes data to machines that are connected through a LAN. The difference is that every machine connected to the switch will receive a copy of the data sent. This speeds up the LAN but can have security issues.
 #### Multilayer switch
+A multilayer switch is similar to a normal switch however is operates more efficiently. This multilayer switch can increase the speed of data being transferred.
 #### Firewall
+A firewall is a piece of software or even a piece of hardware that sorts the data that passes through it. A firewall will open and close ports in order to stop specific types of data from passing through.
 #### HIDS
+HIDS stands for host-based intrusion detection system. It is used to detect threats to a network by searching through the data being sent through the network. It looks for abnormalities that could be seen as a threat. 
 #### Repeaters
+Repeaters are devices that are used to help strengthen a signal that is being sent over a large distance on a physical LAN. Repeaters allow for the size of LANs to be much larger than if not used.
 #### Bridges
-#### Wireless devices
+A bridge is used to get a connection with another network using a bridge. The only constraint of a bridge is that both bridges need to be using the same protocols. The reason for this is because bridges use an internal database to determine what traffic is allowed in and out of the network.
+### Wireless devices
 #### Access point (wireless/wired)
+Access points are used to help provide users with a connection to a network while they are physically not connected to that network. The most common form of access points are wireless as they use Wi-Fi to allow users to connect to the network instantly.
 #### Content filter
+Content filters are used to help screen the incoming data against a set of rules and if it does not meet the requirements then it won’t be allowed through. Some common filters check for spam or malicious files.
 #### Load balancer
+A load balancer is used to help spread the workload over an entire network. The load balancer does this by preventing certain pathways and connections on a network becoming busy and affect the speed of the network.
 #### Modem 
+A modem is used to connect networks via an existing telephone line. This can be convenient when reaching remote areas, it has a drawback where there are limited speeds through these connections.
 #### Packet shaper 
+Packet shapers are used to help prioritise specific data that is sent over a network. This forces lower priority packets such as instant messages to wait to be sent whilst more important data is sent.
 #### VPN concentrator
-
+A VPN concentrator is used to help allow multiple users on the same network to use the same VPN. It is able to do this by coordinating and organising traffic on a network between different machines trying to access the VPN.
 ### Server types:
 #### Web
+A web server is a type of server which sends and stores data on websites over the internet. Users will request information from the web server on how to display the webpage as well as what information is also needed to be loaded. The server will respond and send a copy of the data to the user.
 #### File
+A file server is simply a server where its main purpose is to store data and files. The data on these servers can vary depending on who owns the server however as long as the user has access then the data can be sent to them.
 #### Database
+A database server is a form of server that stores data in certain categories or fields. The server will store the information and it will all be related to one another. A way of seeing how this server works could be looking at it like a store. If you scan an item on a system, it will bring up all of the information related to that item.
 #### Combination (e.g MS Small Business Servers)
-#### Virtualisation and terminal services server
+A combination server is a server that will merge all of the previous three servers into one. It will perform all of the previous tasks as well all on one system/server.
+#### Virtual server 
+A virtualized server is a server that can have the functionality of a physical server however it is nothing more than a small machine loaded with specialised software. This software helps the virtual server to perform the tasks needed by a server.
+#### terminal services server
+A terminal services server is a device that provides other computers connected to this device with a path to another LAN or WAN. The computers themselves don’t need to be connected to a router or a switch to make the connection.
