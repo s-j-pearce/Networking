@@ -137,14 +137,15 @@ Auto-configuration is another important feature offered by the IPv6 protocol. Au
 
 ## Services and network applications:
 ### FTP
-
+FTP stands for file transfer protocol. It is used for the transfer of computer files and data between a client and a sever on a network.
 ### HTTP
-
+HTTP stands for hypertext transfer protocol. This protocol is used on the world wide web and it defines how messages are formatted and transmitted across the internet.
 ### SMTP
-
+SMTP stands for simple mail transfer protocol. This protocol is used for the email transmissions. Emails are sent over the internet using SMTP to be able to send from one server to another.
 ### POP3
-
+POP3 stands for post office protocol 3. This protocol is designed to receive emails. POP3 works side by side with SMTP to complete the transfer of an email to reach another client on another server.
 ### SSL
+SSL stands for secure sockets layer. This protocol is responsible for security over internet communications by using specific cryptographic methods such as encryption.
 
 ---
 
