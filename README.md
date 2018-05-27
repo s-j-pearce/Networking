@@ -283,3 +283,7 @@ The image below is of the finished network which has been completed to the speci
 ### Testing
 In order to make sure that my designed networks work correctly as intended I have created a test plan to go through some of the important features. The test plan also tested each of the user requirements given to me. The test plan itself shows the action, the expected result as well as the actual result. There is also another section where if there is any problems or actions required, I can make a not to say what needs to be done to fix it. Obviously, I wanted each tests outcome to be its expected outcome so that it proves that the design and implementation was a success.
 #### Test Plan:
+
+![test plan](https://user-images.githubusercontent.com/31927590/40590992-fcc94eda-6200-11e8-965c-09e6a005daea.PNG)
+
+## Evaluation:
