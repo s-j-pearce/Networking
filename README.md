@@ -224,6 +224,28 @@ A terminal services server is a device that provides other computers connected t
 
 ---
 
-## Network design:
+### Testing and evaluation of design:
+We were given the task of creating two LANs, both with a star topology. Both networks would connect via a router on either side. Each network had 3 pc’s, one server, one router, one switch, one printer and one access point. Once each of the networks had been created needed to connect them so that we can send packets of data between the two networks. The design below shows just how we met the requirements for the project as well as how the final product is going to roughly be laid out:
 
 ![network design 1](https://user-images.githubusercontent.com/31927590/40590183-814781fe-61f2-11e8-8fa3-4d5629f2a2db.png)
+
+The requirements that we were given were:
+* Have two different local networks
+* Be able to add more PCs if needed
+* Be able communicate between the two networks
+* See that the network is laid out as a star network
+* Be able to add additional devices
+
+The requirements are very simple to break down;
+1.	Have two different local networks – Each network needed to have 3 pc’s at least as well as a server. These main four pieces of hardware needed to connect to the switch for the network which would then connect to the router. Once all of our devices were connected correctly we would then be able to connect both routers from both networks with a straight-through cable.
+
+2.	Be able to add more PCs if needed – We were able to achieve this by setting up the servers DHCP settings so that it would automatically allocate an IP address, subnet mask, default gateway and a DNS server address to each new system. Also, the switch was chosen so that it could be easily expanded by adding additional access ports.
+
+3.	Be able to communicate between the two networks – This was achieved by firstly setting up the routers to talk to one another. However, we also set up the DNS in each of the servers of both network so that each pc could be given a name and you could ping to either its name or IP address from another pc on either network. Both routers are connected through a serial DTE cable. Once everything was set up we would ping PCs from each network to make sure the packets travelled successfully.
+
+4.	See that the network is laid out as a star network – A star network topology is where there is a central device and the other devices all connect to that one device to communicate with one another. For our networks we had the switches at the centre.
+
+5.	Be able to add additional devices – for this last requirement, it was more of an extension. However, it was very simple to do as we had previously set up the server on each network with its DHCP and DNS settings. Therefore, it was just a simple task of connecting the devices which we chose a printer and an access port. Once they were connected all we needed to do was to add the gateway IP address and the DNS server IP address and they were ready for use.
+
+#### Evaluation of design:
+Overall, I feel as though the initial design is very good. I feel as though it has covered all of the requirements of the user very well and is laid out in a professional manner. In theory if each piece of hardware on each network is set up correctly, it will work perfectly. The design allows for DHCP settings to be added in the server as well as a DNS setting in the server also. This will help new devices to be automatically allocated all the required information to run on the network. The design has met all of the requirements set by the user and will work if there is no human error so therefore I can conclude that it is a successful design.
