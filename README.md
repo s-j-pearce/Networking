@@ -225,6 +225,40 @@ A terminal services server is a device that provides other computers connected t
 ---
 
 ## Workstation hardware and software
+### Network software
+#### Client software
+Client software is software that works within LANs and WANs. They act as an interface between the client’s computer and the server on the network. This software is located on the clients PC. This software can be any application that it is installed on the clients PC. 
+#### Server software
+Server software is the software that a server in a network uses. The server software will provide the server with the correct functions and abilities that it needs to be able to connect correctly with any devices connected on that network.
+#### Client operating system
+Client operating system works within the client’s computer. This piece of software is a low-level software that supports the computers basic function and abilities. The operating system helps users by giving them a physical GUI to help them Perform simple tasks and functions. There are a few common operating systems; Windows, Mac OS and LINUX.
+#### Server operating system
+Server operating system is similar to a clients operating system however it is specially designed for the server’s primary functions and tasks. The main functions that a server has to deal with could consist of anything from communicating with devices connect too managing databases, web mail and file management.
+#### Firewall
+The firewall within a server is used to help filter traffic travelling through the network. The firewall will filter out malicious packets of data by closing specific ports. The firewall adds a security benefit to any network as it is reducing the chance of harmful data being received on any of the devices.
+#### Proxies
+Proxies are servers which run on a computer that acts as a halfway point between a server and the end destination. These proxies will receive requests from the client to access an internet resource. A proxies job is to act as a gate between an endpoint and another server that the user is trying to connect too.
+### Comparison of network and cabling
+#### Network comparison
+A network card is a piece of hardware that allows a computer to connect to a network. This card will allow the computer to exchange data and information between the network and the computer of which its installed. This device is very helpful when trying to connect to a network. An alternative way to connect the computer to the network could be through wireless connection. The wireless network would connect to the computer or any device without the need for physical cabling. This means that the network could be accessed as long as the device is connected to the internet. The third type of connection is mobile. Mobile or cellular is where a mobile network is distributed through the use of cell towers. These cell towers have fixed transceivers or a base station to allow the user to connect.
+#### Cabling
+Cabling is what connects devices or hardware to enable them to transmit data from device to device. Cabling is the most efficient way of connection computers together. Cabling is only really used if the physical distance between the two machines is small enough. When compared to wireless connections, wired has a huge advantage when it comes to data travelling speeds. Some examples of physical cables are:
+##### Patch Cables:
+Patch cables are cables which are used to connect home networks and business networks as their length can be limiting. They are most commonly used to connect devices to hubs, switches and routers within a network.
+##### Shielded Cables:
+Shielded cables are ethernet cables which have an additional layer of insulation with a conductive layer inside. This type of cabling helps to reduce the electricity on the outside of the cable which in turn helps with the reduction in the loss of packets whilst traveling through this cable.
+##### Twisted Pair
+A twisted pair cable is a cable which has two copper cables twisted around one another within the same wire. This form of cabling helps to reduce against signal jumping across different cables whilst packets of data are being sent or received.
+#### Permissions
+Permissions are the privileges that come with different clients and devices on a network. For instance a client may not have the same permissions as an admin on a network as they wont be required to use the same abilities or options. There are different types of permissions that are allowed on a network. There are two types of permissions on a network;
+##### NTFS
+NTFS are permissions that set what users can have access to specific files or folders held on a network. These permissions can set who has access to read and who also has access to edit files. TFS allows for more flexible options as it has a wider range to give users the right permissions that they will need to maintain the network as well as the files stored on it.
+##### Shared permissions
+Shared permissions allow for a similar approach to NTFS however, these privileges are set for certain shared files. The permissions of the files stored will vary depending on the user that is trying to access them. For instance one user may only be able to read the file however another user with higher up permissions may be able to edit the file. 
+#### Workstation
+Workstation computers are special computers that have specialist components built inside that allow them to perform certain tasks much better than traditional computers. Usually a workstation computer will have a much higher grade CPU, this CPU may have double the amount of cores so that some tasks can be spread over these new cores. Another main component is the amount of RAM that is used. Workstation computers these days can have up to 256GB of RAM which for simple everyday task is overkill however these workstation computers may need it to help with specialist tasks.
+#### System Bus
+A system bus is a series of internal connections that connect all of the individual components of a computer as well as allowing them to communicate with one another. These connections are very small however they are essential to the computers components working together. If there was not a system BUS then components like the CPU would not be able to get instructions sent to other components like RAM and the GPU. The address of the BUS will determine where the information of instructions will be sent too. Th control BUS is used to help determine its operating when the instructions get there.
 
 ---
 
