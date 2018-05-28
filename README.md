@@ -288,6 +288,12 @@ The requirements are very simple to break down;
 
 #### Evaluation of design:
 Overall, I feel as though the initial design is very good. I feel as though it has covered all of the requirements of the user very well and is laid out in a professional manner. In theory if each piece of hardware on each network is set up correctly, it will work perfectly. The design allows for DHCP settings to be added in the server as well as a DNS setting in the server also. This will help new devices to be automatically allocated all the required information to run on the network. The design has met all of the requirements set by the user and will work if there is no human error so therefore I can conclude that it is a successful design.
+#### User feedback:
+I asked some of my collegues to comment on the design and take into consideration the user requirements that i was set before creating the network. There comments are below:
+###### Ryan:
+"In my opinion the design meets the specification and the user requirements exactly, I don't think that you need to change anything."
+###### Mark:
+"I feel that this design meets the set requirements however it looks very compact which reduces expandability"
 
 ### Configuration of network
 Both networks had specific requirements that needed to be included. These were the IP addresses allocated to each pc, the server and the router of both networks. Below you can see the IP addresses given:
