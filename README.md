@@ -331,3 +331,4 @@ In order to make sure that my designed networks work correctly as intended I hav
 ![test plan](https://user-images.githubusercontent.com/31927590/40590992-fcc94eda-6200-11e8-965c-09e6a005daea.PNG)
 
 ## Evaluation:
+Overall, I feel as though the network that I have created is successful. I am able to say this with confidence as it has met the user requirements set to me at the start. During the testing phase, the network performed as expected and intended. There were no bugs or any errors that occurred. The most challenging part of setting up the network was configuring the DNS to include all of the devices connected to the networks. I fully believe this project to be a huge success as I was able to affectively implement my design into a successful working network.
